@@ -1,0 +1,14 @@
+{
+  "name": "google-genai-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot interface using Google GenAI API.",
+  "main": "src/script.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
